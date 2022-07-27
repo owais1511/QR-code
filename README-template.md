@@ -13,5 +13,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](owais1511.github.io/my-personal-site/)
+- Website - [owais khurshid](owais1511.github.io/my-personal-site)
 - Frontend Mentor - [@owais1511](https://www.frontendmentor.io/profile/owais1511)
